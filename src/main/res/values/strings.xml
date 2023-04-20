@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kiemtra</string>
+    <string-array name="category">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>Cây lặng - gió ngừng</item>
+        <item>Có dừng được không</item>
+        <item>Đây là mơ</item>
+        <item>Ở giữa cuộc đời</item>
+    </string-array>
+</resources>
